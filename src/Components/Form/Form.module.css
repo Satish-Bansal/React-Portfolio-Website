@@ -155,6 +155,18 @@ form button{
         font-size: 3.5vw;
 
     }
+    form input{
+        font-size: 4vw;
+        padding: 1%;
+    }
+    .row1_cont input{
+        font-size: 4vw;
+        padding: 1%;
+    }
+    .row1_cont1 input{
+        font-size: 4vw;
+        padding: 1%;
+    }
     .row1_cont1 button {
         font-size: 4vw;
     }
